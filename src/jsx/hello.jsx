@@ -1,8 +1,8 @@
 'use strict';
 
 const React = require('react/addons');
-const Material = require('material-ui');
-const RaisedButton = Material.RaisedButton;
+// const Material = require('material-ui');
+// const RaisedButton = Material.RaisedButton;
 
 const Hello = React.createClass({
 	render: function () {
