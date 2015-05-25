@@ -1,7 +1,7 @@
 {
   "name": "Hello-World-project",
   "version": "1.0.0",
-  "description": "A website dedicated to guinea pigs.",
+  "description": "Just the Hello World Things.",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --progress --colors --watch",
